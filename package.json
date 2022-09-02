@@ -106,7 +106,7 @@
     "reselect": "^4.0.0",
     "sass": "^1.52.1",
     "styled-components": "^5.3.0",
-    "ui-console-shell": "5.51.0",
+    "ui-console-shell": "5.56.0",
     "ui-opportunities-components": "1.100.3",
     "uuid": "^3.3.2",
     "uuid-validate": "^0.0.3",
